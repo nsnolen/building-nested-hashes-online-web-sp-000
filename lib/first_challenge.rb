@@ -36,7 +36,7 @@ def first_challenge
          :age => "51"
        },
        :hero => {
-         :name => "Juliet"
+         :name => "Juliet",
          :age => "15"
        },
        :hero_friends => [
